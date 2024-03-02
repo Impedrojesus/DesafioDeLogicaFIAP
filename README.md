@@ -3,8 +3,6 @@ Este projeto é uma simples agenda de contatos desenvolvida como parte do curso 
 
 Funcionalidades:
 Adicionar, visualizar, editar e excluir contatos.
-Pesquisar contatos por nome.
-Armazenamento persistente dos contatos em arquivo.
 
 Tecnologias Utilizadas:
 Java
